@@ -1,4 +1,4 @@
-# group_project
+# gamify_app
 
 A new Flutter project.
 
